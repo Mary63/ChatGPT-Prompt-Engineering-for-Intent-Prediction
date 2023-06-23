@@ -1,2 +1,6 @@
 # ChatGPT-Prompt-Engineering-for-Intent-Prediction
 Using ChatGPT prompt engineering to predict text intents
+
+Prompt engineering has gained significant importance in the world of AI due to the rising popularity of generative AI, particularly ChatGPT. Interacting with a large language model like ChatGPT involves crafting prompts, which is more complex than it may initially seem. While the initial interactions with ChatGPT may seem novel, it soon becomes apparent that mastering prompts requires practice and thoughtful consideration. Consequently, prompt engineering, the process of creating highly effective prompts, has become a sought-after skill in both the realm of large language models and beyond.
+
+Within this repository, I will demonstrate the application of prompt engineering to predict the intents of text in a very simple way. The project focuses on a limited dataset collected from a text messaging application designed to assist individuals in need. Due to the small size of the data, additional preprocessing, such as grouping related messages based on providers or timestamps, is not feasible. However, with a larger dataset, it would be both plausible and reasonable to conduct preprocessing to enhance intent prediction accuracy.
